@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(42deg,#4158b0 0%,#c450c0 46%,#ffcc70 120%);
+    background:cover;
+    background-repeat: no-repeat;
+}
+.instrucoes {
+    margin: 5px;
+}
+main h1 {
+    margin-bottom: 0;
+}
+main {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(218, 221, 218);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: whitesmoke;    
+    padding: 15px;
+}
